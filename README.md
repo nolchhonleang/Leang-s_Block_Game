@@ -49,3 +49,6 @@ Works on Windows, macOS, and Linux with Python 3.6+.
 MIT License – feel free to use, modify, and share!
 
 Made with love by **Nol Chhon Leang**
+
+<img width="760" height="815" alt="image" src="https://github.com/user-attachments/assets/463572d4-ad42-4eb6-b1df-f185c4b0f232" />
+
