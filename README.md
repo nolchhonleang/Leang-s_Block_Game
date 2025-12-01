@@ -5,8 +5,6 @@ A clean, fun Tetris clone written in pure Python using only **Tkinter** (no extr
 
 Features classic gameplay: rotating pieces, line clearing, scoring, levels that speed up, next-piece preview, pause/resume, and a persistent high score saved to `high_score.json`.
 
-![Game preview](screenshot.png)  
-*(Add your own screenshot.png to the repo root for this image to appear)*
 
 ## Features
 
