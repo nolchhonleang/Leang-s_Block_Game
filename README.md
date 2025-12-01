@@ -51,4 +51,3 @@ Works on Windows, macOS, and Linux with Python 3.6+.
 MIT License – feel free to use, modify, and share!
 
 Made with love by **Nol Chhon Leang**
-```
